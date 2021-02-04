@@ -1,0 +1,8 @@
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestConsoleApp\bin\Debug\GitTestConsoleApp.exe.config
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestConsoleApp\bin\Debug\GitTestConsoleApp.exe
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestConsoleApp\bin\Debug\GitTestConsoleApp.pdb
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestConsoleApp\bin\Debug\GitTestSubmodule.dll
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestConsoleApp\bin\Debug\GitTestSubmodule.pdb
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestConsoleApp\obj\Debug\GitTestConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestConsoleApp\obj\Debug\GitTestConsoleApp.exe
+C:\Users\chmma\Desktop\GitTest\GitTestConsoleApp\GitTestConsoleApp\obj\Debug\GitTestConsoleApp.pdb
